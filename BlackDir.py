@@ -52,13 +52,10 @@ except:
 
 
 def logo():
-    print("""
-\x1b[34m
-
- 
+    print("
 help: python3 Buvulnweb.py -h
                                                                                                                 
-""")
+")
 
 
 def fast_crawl(url):

@@ -1,4 +1,3 @@
-"""
 import time
 from urllib import request
 import json
@@ -804,4 +803,4 @@ elif sql_inection == None and scanner == None and url == None and dork == None a
 elif sql_inection == None and scanner == None and url == None and dork == None and subdomains == None and list_dork == None and updates == None and ip == None and portscan == None and html == None and hash_type == None and user_word == None and hash_ide == None and url_wordpress !=None:
     wordpress(url_wordpress,usernames,passwords,enumx)
     ()
-    """"
+
